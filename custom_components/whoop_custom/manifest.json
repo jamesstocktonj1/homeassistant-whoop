@@ -1,0 +1,11 @@
+{
+  "domain": "whoop_custom",
+  "name": "Whoop",
+  "codeowners": ["@jamesstocktonj1"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/jamesstocktonj1/homeassistant-whoop",
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "version": "0.0.1"
+}
